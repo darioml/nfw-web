@@ -24,7 +24,7 @@
 
 	<meta name="viewport" content="initial-scale=1">
 
-	<link rel="stylesheet" href="css_2013/style.css">
+	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="./jquery.ad-gallery.1.2.4/jquery.ad-gallery.css">
 	
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>

@@ -290,9 +290,7 @@ FileETag None
 <IfModule mod_rewrite.c>
   Options +FollowSymlinks
   RewriteEngine On
-# RewriteRule ^([^/\.]+)/?$ index.php?page=$1 [L]
-# RewriteRule ^2012/?([^/\.]+)/?$ index.php?page=$1 [L]
-  RewriteRule ^([^/\.]*)/?$ index_new.php?page=$1 [L]
+  RewriteRule ^([^/\.]*)/?$ index.php?page=$1 [L]
 </IfModule>
 
 
